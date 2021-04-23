@@ -1,7 +1,12 @@
 html {
-    background-color: pink;
+    background-color: whitesmoke;
 }
 
 p {
-    color: blue;
+    color: black;
+    padding: 10px;
+}
+
+a {
+    color: purple;
 }
